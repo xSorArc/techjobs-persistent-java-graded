@@ -152,6 +152,10 @@ public class TestTaskFour extends AbstractTest {
 //        Field employerRepositoryField = homeControllerClass.getDeclaredField("employerRepository");
 //        employerRepositoryField.setAccessible(true);
 //        employerRepositoryField.set(homeController, employerRepository);
+
+//        Field jobRepositoryField = homeControllerClass.getDeclaredField("jobRepository");
+//            jobRepositoryField.setAccessible(true);
+//            jobRepositoryField.set(homeController, jobRepository);
 //
 //        processAddJobFormMethod.invoke(homeController, job, errors, model, 0, new ArrayList<Skill>());
 //    }
