@@ -1,4 +1,4 @@
-package org.launchcode.javawebdevtechjobspersistent.models;
+package org.launchcode.techjobs.persistent.models;
 
 import java.util.ArrayList;
 
